@@ -1,0 +1,21 @@
+{
+    "name": "yerlinson10/standard_table_structure",
+    "description": "standard table structure",
+    "version": "1",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Generate\\StandardTable\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yerlinson",
+            "email": "53019615+yerlinson10@users.noreply.github.com"
+        }
+    ]
+}
